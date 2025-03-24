@@ -14,7 +14,8 @@ const app = express();
 // const PORT = process.env.PORT || 21;
 const PORT = process.env.PORT || 3000;
 // const HOST = "ftp://103.92.103.106:21";
-const HOST = "192.168.99.106";
+// const HOST = "192.168.99.106";
+const HOST = "https://rdk456.github.io/bookmark/";
 
 // Initialize Supabase client
 const supabaseUrl = process.env.SUPABASE_URL;
